@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/laitranngockhanh/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/laitranngockhanh/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/laitranngockhanh/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
