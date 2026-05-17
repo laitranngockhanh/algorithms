@@ -46,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/laitranngockhanh/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/laitranngockhanh/algorithms/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/laitranngockhanh/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/laitranngockhanh/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/laitranngockhanh/algorithms/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/laitranngockhanh/algorithms/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
@@ -137,5 +139,6 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
