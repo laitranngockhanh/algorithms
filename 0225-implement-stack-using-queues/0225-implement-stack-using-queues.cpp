@@ -8,21 +8,31 @@ public:
     }
     
     void push(int x) {
-        q2.push(x);
-        while (!q1.empty()) {
-            q2.push(q1.front());
-            q1.pop();
-        }
-        std::swap(q1, q2);
+        q1.push(x);
     }
     
     int pop() {
-        int val = q1.front();
-        q1.pop();
-        return val;
+        while (q1.size() > 1) {
+            q2.push(q1.front());
+            q1.pop();
+        }
+        
+        int topVal = q1.front();
+        q1.pop();   
+        std::swap(q1, q2);
+        return topVal;
     }
     
     int top() {
+         while (q1.size() > 1) {
+            q2.push(q1.front());
+            q1.pop();
+        }
+        int topVal = q1.front();
+        q2.push(topVal);
+        q1.pop();
+        std::swap(q1, q2);
+        return topVal;
         return q1.front();
     }
     
