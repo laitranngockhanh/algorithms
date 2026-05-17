@@ -29,11 +29,13 @@
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0389-find-the-difference](https://github.com/laitranngockhanh/algorithms/tree/main/0389-find-the-difference/) | Easy |
+| [0561-array-partition](https://github.com/laitranngockhanh/algorithms/tree/main/0561-array-partition/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0561-array-partition](https://github.com/laitranngockhanh/algorithms/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/laitranngockhanh/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laitranngockhanh/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -102,4 +104,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/laitranngockhanh/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/laitranngockhanh/algorithms/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/laitranngockhanh/algorithms/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
