@@ -53,6 +53,7 @@
 | [0414-third-maximum-number](https://github.com/laitranngockhanh/algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/laitranngockhanh/algorithms/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/laitranngockhanh/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/laitranngockhanh/algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laitranngockhanh/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/laitranngockhanh/algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0735-asteroid-collision](https://github.com/laitranngockhanh/algorithms/tree/main/0735-asteroid-collision/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/laitranngockhanh/algorithms/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/laitranngockhanh/algorithms/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0735-asteroid-collision](https://github.com/laitranngockhanh/algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [1544-make-the-string-great](https://github.com/laitranngockhanh/algorithms/tree/main/1544-make-the-string-great/) | Easy |
 ## Counting
