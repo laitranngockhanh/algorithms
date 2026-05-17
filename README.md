@@ -67,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laitranngockhanh/algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/laitranngockhanh/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/laitranngockhanh/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
