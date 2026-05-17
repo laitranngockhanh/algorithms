@@ -69,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/laitranngockhanh/algorithms/tree/main/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/laitranngockhanh/algorithms/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Stack
@@ -86,6 +87,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/laitranngockhanh/algorithms/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laitranngockhanh/algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/laitranngockhanh/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Divide and Conquer
