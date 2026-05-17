@@ -35,6 +35,7 @@
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/laitranngockhanh/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laitranngockhanh/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/laitranngockhanh/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Sliding Window
@@ -56,6 +57,7 @@
 | [0020-valid-parentheses](https://github.com/laitranngockhanh/algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/laitranngockhanh/algorithms/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/laitranngockhanh/algorithms/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [1544-make-the-string-great](https://github.com/laitranngockhanh/algorithms/tree/main/1544-make-the-string-great/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -91,4 +93,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/laitranngockhanh/algorithms/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/laitranngockhanh/algorithms/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
