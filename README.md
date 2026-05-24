@@ -63,6 +63,7 @@
 | [0704-binary-search](https://github.com/laitranngockhanh/algorithms/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/laitranngockhanh/algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/laitranngockhanh/algorithms/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/laitranngockhanh/algorithms/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laitranngockhanh/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -127,6 +128,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laitranngockhanh/algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/laitranngockhanh/algorithms/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/laitranngockhanh/algorithms/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/laitranngockhanh/algorithms/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
