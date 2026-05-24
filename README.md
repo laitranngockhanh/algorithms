@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/laitranngockhanh/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/laitranngockhanh/algorithms/tree/main/0389-find-the-difference/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/laitranngockhanh/algorithms/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [0414-third-maximum-number](https://github.com/laitranngockhanh/algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/laitranngockhanh/algorithms/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/laitranngockhanh/algorithms/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@
 | [0735-asteroid-collision](https://github.com/laitranngockhanh/algorithms/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/laitranngockhanh/algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/laitranngockhanh/algorithms/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laitranngockhanh/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/laitranngockhanh/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Sliding Window
@@ -79,6 +82,7 @@
 | [0086-partition-list](https://github.com/laitranngockhanh/algorithms/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/laitranngockhanh/algorithms/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +122,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laitranngockhanh/algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/laitranngockhanh/algorithms/tree/main/0704-binary-search/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/laitranngockhanh/algorithms/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
