@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/laitranngockhanh/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/laitranngockhanh/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/laitranngockhanh/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/laitranngockhanh/algorithms/tree/main/0383-ransom-note/) | Easy |
@@ -35,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/laitranngockhanh/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/laitranngockhanh/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/laitranngockhanh/algorithms/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/laitranngockhanh/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
@@ -50,6 +52,7 @@
 | [0075-sort-colors](https://github.com/laitranngockhanh/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0169-majority-element](https://github.com/laitranngockhanh/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/laitranngockhanh/algorithms/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/laitranngockhanh/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
@@ -97,6 +100,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/laitranngockhanh/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/laitranngockhanh/algorithms/tree/main/0383-ransom-note/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -111,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laitranngockhanh/algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0169-majority-element](https://github.com/laitranngockhanh/algorithms/tree/main/0169-majority-element/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
