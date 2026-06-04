@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/laitranngockhanh/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/laitranngockhanh/algorithms/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/laitranngockhanh/algorithms/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/laitranngockhanh/algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/laitranngockhanh/algorithms/tree/main/0179-largest-number/) | Medium |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/laitranngockhanh/algorithms/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/laitranngockhanh/algorithms/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/laitranngockhanh/algorithms/tree/main/0075-sort-colors/) | Medium |
@@ -190,4 +192,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/laitranngockhanh/algorithms/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/laitranngockhanh/algorithms/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
