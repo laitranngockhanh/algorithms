@@ -114,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/laitranngockhanh/algorithms/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/laitranngockhanh/algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0086-partition-list](https://github.com/laitranngockhanh/algorithms/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laitranngockhanh/algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/laitranngockhanh/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -164,6 +165,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/laitranngockhanh/algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/laitranngockhanh/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
