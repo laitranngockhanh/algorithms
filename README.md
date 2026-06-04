@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/laitranngockhanh/algorithms/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/laitranngockhanh/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/laitranngockhanh/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/laitranngockhanh/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/laitranngockhanh/algorithms/tree/main/0217-contains-duplicate/) | Easy |
@@ -17,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/laitranngockhanh/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/laitranngockhanh/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/laitranngockhanh/algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/laitranngockhanh/algorithms/tree/main/0179-largest-number/) | Medium |
@@ -176,6 +178,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/laitranngockhanh/algorithms/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/laitranngockhanh/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/laitranngockhanh/algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
