@@ -58,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/laitranngockhanh/algorithms/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/laitranngockhanh/algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/laitranngockhanh/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
@@ -141,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/laitranngockhanh/algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/laitranngockhanh/algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/laitranngockhanh/algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
