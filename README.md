@@ -61,6 +61,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/laitranngockhanh/algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
+| [0066-plus-one](https://github.com/laitranngockhanh/algorithms/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/laitranngockhanh/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/laitranngockhanh/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -192,6 +193,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/laitranngockhanh/algorithms/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/laitranngockhanh/algorithms/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/laitranngockhanh/algorithms/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/laitranngockhanh/algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
