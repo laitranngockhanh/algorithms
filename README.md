@@ -23,6 +23,7 @@
 | [0020-valid-parentheses](https://github.com/laitranngockhanh/algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/laitranngockhanh/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/laitranngockhanh/algorithms/tree/main/0058-length-of-last-word/) | Easy |
 | [0179-largest-number](https://github.com/laitranngockhanh/algorithms/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/laitranngockhanh/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/laitranngockhanh/algorithms/tree/main/0389-find-the-difference/) | Easy |
