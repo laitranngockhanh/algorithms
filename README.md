@@ -199,6 +199,7 @@
 | [0066-plus-one](https://github.com/laitranngockhanh/algorithms/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/laitranngockhanh/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/laitranngockhanh/algorithms/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/laitranngockhanh/algorithms/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/laitranngockhanh/algorithms/tree/main/0367-valid-perfect-square/) | Easy |
@@ -215,4 +216,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/laitranngockhanh/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/laitranngockhanh/algorithms/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/laitranngockhanh/algorithms/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
