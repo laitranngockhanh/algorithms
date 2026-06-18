@@ -1,8 +1,10 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n <= 2:
-            return n
-        a, b =1, 2
-        for i in range(3,n+1):
-            a,b = b,a+b
-        return b
+        mem ={}
+        def f(k):
+            if k <= 2:
+                return k
+            if k not in mem:
+                mem[k] = f(k-1)+ f(k-2)
+            return mem[k]
+        return f(n)
