@@ -24,6 +24,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/laitranngockhanh/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/laitranngockhanh/algorithms/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/laitranngockhanh/algorithms/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/laitranngockhanh/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0179-largest-number](https://github.com/laitranngockhanh/algorithms/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/laitranngockhanh/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/laitranngockhanh/algorithms/tree/main/0389-find-the-difference/) | Easy |
@@ -34,6 +35,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/laitranngockhanh/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/laitranngockhanh/algorithms/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
@@ -90,6 +92,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/laitranngockhanh/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/laitranngockhanh/algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/laitranngockhanh/algorithms/tree/main/0735-asteroid-collision/) | Medium |
 ## Two Pointers
@@ -194,6 +197,7 @@
 | [0009-palindrome-number](https://github.com/laitranngockhanh/algorithms/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/laitranngockhanh/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/laitranngockhanh/algorithms/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/laitranngockhanh/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/laitranngockhanh/algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/laitranngockhanh/algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/laitranngockhanh/algorithms/tree/main/0268-missing-number/) | Easy |
